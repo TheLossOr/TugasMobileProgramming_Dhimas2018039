@@ -13,13 +13,6 @@
         android:theme="@style/Theme.Pertemuan1_Intent"
         tools:targetApi="31">
         <activity
-            android:name=".Segitiga"
-            android:exported="false">
-            <meta-data
-                android:name="android.app.lib_name"
-                android:value="" />
-        </activity>
-        <activity
             android:name=".Biodata"
             android:exported="false">
             <meta-data
